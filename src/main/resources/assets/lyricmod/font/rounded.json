@@ -1,0 +1,5 @@
+{
+  "providers": [
+    { "type": "ttf", "file": "lyricmod:rounded.ttf", "shift": [0, 0], "size": 11.0, "oversample": 4.0 }
+  ]
+}
